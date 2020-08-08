@@ -1,2 +1,2 @@
-# Class-21
-worked on isTouching functionality
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
